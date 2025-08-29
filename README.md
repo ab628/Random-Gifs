@@ -39,5 +39,5 @@ It bundles React in production mode and optimizes the build.
 
 ---
 
-# Authors
-[Abhay Singh](https://github.com/ab628)
+## 👨‍💻 Author
+[-@Abhay_Singh](https://github.com/ab628)
