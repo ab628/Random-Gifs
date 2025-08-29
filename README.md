@@ -4,11 +4,10 @@ This is a simple React project to generate random GIFs.
 
 # Screenshots
 Random Gif
-<img width="1920" height="1080" alt="Screenshot (518)" src="https://github.com/user-attachments/assets/8cef9907-fbe6-4392-85a3-bb3fab64216e" />
+<img width="1903" height="928" alt="Screenshot (518)" src="https://github.com/user-attachments/assets/e207c385-b6e9-4b2e-9749-dd017660694d" />
 
 Text Accourding Gif
-<img width="1920" height="1080" alt="Screenshot (515)" src="https://github.com/user-attachments/assets/3144e30d-f72f-4061-980f-bbfe540b8c2a" />
-
+<img width="1903" height="917" alt="Screenshot (515)" src="https://github.com/user-attachments/assets/c366e61f-18fe-4e57-bcf7-eb9421611c1f" />
 
 ---
 
