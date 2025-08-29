@@ -40,4 +40,4 @@ It bundles React in production mode and optimizes the build.
 ---
 
 # Authors
-@ab628
+[Abhay Singh](https://github.com/ab628)
