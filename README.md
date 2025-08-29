@@ -6,7 +6,7 @@ This is a simple React project to generate random GIFs.
 Random Gif
 <img width="1920" height="1080" alt="Screenshot (518)" src="https://github.com/user-attachments/assets/8cef9907-fbe6-4392-85a3-bb3fab64216e" />
 
-Text accourding Gif
+Text Accourding Gif
 <img width="1920" height="1080" alt="Screenshot (515)" src="https://github.com/user-attachments/assets/3144e30d-f72f-4061-980f-bbfe540b8c2a" />
 
 
