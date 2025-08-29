@@ -39,7 +39,5 @@ It bundles React in production mode and optimizes the build.
 
 ---
 
-## 📚 Learn More
-
-- [React documentation](https://reactjs.org/)  
-- [Create React App docs](https://facebook.github.io/create-react-app/docs/getting-started)
+# Authors
+@Abhay_Singh
